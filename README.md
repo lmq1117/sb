@@ -9,3 +9,16 @@
 
 https://github.com/spotify/docker-maven-plugin
 mvn clean package docker:build
+
+### spring security 基本原理
+过滤器链
+
+username password sdfsd
+
+
+## 使用flyway migrate database structs
+使用flyway迁移表结构
+
+
+
+ 
